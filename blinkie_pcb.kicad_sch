@@ -3010,7 +3010,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 215.9 58.42 0)
 			(effects
 				(font
@@ -3089,7 +3089,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 226.822 99.06 90)
 			(effects
 				(font
@@ -3156,7 +3156,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 215.9 81.28 0)
 			(effects
 				(font
@@ -3497,7 +3497,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W2.5mm_P5.00mm"
 			(at 120.65 71.4248 0)
 			(effects
 				(font
@@ -3564,7 +3564,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 215.9 66.04 0)
 			(effects
 				(font
@@ -3640,7 +3640,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 215.9 62.23 0)
 			(effects
 				(font
@@ -3782,7 +3782,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 215.9 69.85 0)
 			(effects
 				(font
@@ -3861,7 +3861,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
 			(at 63.5 29.21 0)
 			(effects
 				(font
@@ -3928,7 +3928,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 34.29 30.48 0)
 			(effects
 				(font
@@ -3995,7 +3995,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 215.9 88.9 0)
 			(effects
 				(font
@@ -4074,7 +4074,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Vishay_T93YA_Vertical"
 			(at 80.01 92.71 0)
 			(effects
 				(font
@@ -4144,7 +4144,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
 			(at 83.82 103.1748 0)
 			(effects
 				(font
@@ -4280,7 +4280,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 78.232 82.55 90)
 			(effects
 				(font
@@ -4347,7 +4347,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 215.9 92.71 0)
 			(effects
 				(font
@@ -4489,7 +4489,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 215.9 85.09 0)
 			(effects
 				(font
@@ -4565,7 +4565,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 215.9 77.47 0)
 			(effects
 				(font
@@ -4641,7 +4641,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 215.9 73.66 0)
 			(effects
 				(font
@@ -4720,7 +4720,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "imported:CD4017BE"
 			(at 184.15 77.47 0)
 			(effects
 				(font
